@@ -42,7 +42,7 @@ sections:
         - title: Graduate Researcher
           company: University of Kentucky
           company_url: 'https://polisci.as.uky.edu'
-          company_logo: UK
+          company_logo: UK.jpg
           location: Lexington, KY
           date_start: '2019-08-01'
           date_end: '2023-05-06'
