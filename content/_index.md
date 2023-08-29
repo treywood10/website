@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to reach out! I'm looking forward to answering industry or research questions. 
       # Contact (add or remove contact options as necessary)
       email: totreywood@aol.com
       # phone: 888 888 88 88
