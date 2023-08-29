@@ -39,19 +39,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Graduate Researcher
+          company: University of Kentucky
+          company_url: 'https://polisci.as.uky.edu'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Lexington, KY
+          date_start: '2019-08-01'
+          date_end: '2023-05-06'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Produced over fifteen original quantitative research projects during intensive coursework
+              * Built and analyzed datasets with multiple modeling strategies in STATA and R
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
