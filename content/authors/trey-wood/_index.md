@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'totreywood@aol.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/treywood10
