@@ -22,7 +22,7 @@ organizations:
     url: https://polisci.as.uky.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Former academic and United Nations peacekeeping scholar turned data scientist. 
 
 # Interests to show in About widget
 interests:
@@ -62,7 +62,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/TW_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Trey Wood is a Doctor of Political Science specializing in International Relations and Quantitative Methodology. He possesses over four years of data science and research experience and is passionate about continuously learning new quantitative skills for inferential statistics and machine learning. 
 {style="text-align: justify;"}
