@@ -47,18 +47,45 @@ sections:
           date_start: '2019-08-01'
           date_end: '2023-05-06'
           description: |2-
-              Responsibilities include:
 
               * Produced over fifteen original quantitative research projects during intensive coursework
               * Built and analyzed datasets with multiple modeling strategies in STATA and R
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+    
+        - title: Primary Instructor
+          company: University of Kentucky
+          company_url: 'https://polisci.as.uky.edu'
+          company_logo: UK
+          location: Lexington, KY
+          date_start: '2019-08-01'
+          date_end: '2023-05-06'
+          description: |2-
+
+              * Distilled complex political theories into concise lessons for 50-60 undergraduate students
+              * Trained 10 graduate students in advanced quantitative methods and statistical software
+
+        - title: STATA Orientation Leader
+          company: University of Kentucky
+          company_url: 'https://polisci.as.uky.edu'
+          company_logo: UK
+          location: Lexington, KY
+          date_start: '2022-08-01'
+          date_end: '2022-08-01'
+          description: |2-
+
+              * Launched the first statistics boot-camp for the University’s Political Science Department
+              * Taught a cohort of first year graduate students on intermediate STATA functionality
+
+        - title: Data Hub/Community Impact Intern
+          company: United Way of Greater Chattanooga
+          company_url: 'https://unitedwaycha.org'
+          company_logo: UW
+          location: Chattanooga, TN
+          date_start: '2018-01-01'
+          date_end: '2018-05-01'
+          description: |2-
+
+              * Created GIS maps of Chattanooga neighborhoods and crime for community advocacy groups
+              * Informed city elected officials on Hamilton Country housing trends with GIS images
     design:
       columns: '2'
   - block: accomplishments
