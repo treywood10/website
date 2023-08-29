@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Trey Wood
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Trey
+last_name: Wood
 
 # Status emoji
 status:
