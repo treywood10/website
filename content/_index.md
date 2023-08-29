@@ -11,6 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: trey-wood
+    
   - block: features
     content:
       title: Skills
@@ -27,7 +28,9 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+    
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -88,6 +91,7 @@ sections:
               * Informed city elected officials on Hamilton Country housing trends with GIS images
     design:
       columns: '2'
+    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -101,6 +105,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+    
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
@@ -109,6 +114,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
+    
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
@@ -117,6 +123,7 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
@@ -127,6 +134,7 @@ sections:
           url: ''
     design:
       columns: '2'
+    
   - block: collection
     id: posts
     content:
@@ -154,6 +162,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+    
   - block: portfolio
     id: projects
     content:
@@ -181,6 +190,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    
   - block: markdown
     content:
       title: Gallery
@@ -189,6 +199,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+    
   - block: collection
     id: featured
     content:
@@ -200,6 +211,7 @@ sections:
     design:
       columns: '2'
       view: card
+    
   - block: collection
     content:
       title: Recent Publications
@@ -214,6 +226,7 @@ sections:
     design:
       columns: '2'
       view: citation
+    
   - block: collection
     id: talks
     content:
@@ -229,6 +242,7 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
+
   - block: contact
     id: contact
     content:
