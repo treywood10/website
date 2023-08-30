@@ -174,8 +174,8 @@ sections:
           tag: '*'
         - name: Kaggle
           tag: Kaggle
-        - name: Other
-          tag: Demo
+        - name: Fun
+          tag: Fun
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
