@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Predicting Housing Prices
+summary: Code for Kaggle Competition for predicting housing prices.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Kaggle
+date: '2016-07-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com/treywood10/Housing_Prices_Kaggle/blob/main/Housing.py'
 url_pdf: ''
 url_slides: ''
 url_video: ''
