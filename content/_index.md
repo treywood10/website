@@ -172,8 +172,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Kaggle
+          tag: Kaggle
         - name: Other
           tag: Demo
     design:
