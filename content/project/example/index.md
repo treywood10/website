@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 links:
-  - icon: jupyter
-    icon_pack: fa
+  - icon: file-pdf
+    icon_pack: fas
     name: Notebook
     url: https://github.com/treywood10/Housing_Prices_Kaggle/blob/main/Housing_Kaggle.pdf
 url_code: 'https://github.com/treywood10/Housing_Prices_Kaggle/blob/main/Housing.py'
