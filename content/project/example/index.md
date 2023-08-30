@@ -18,7 +18,7 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/treywood10/Housing_Prices_Kaggle/blob/main/Housing.py'
-url_pdf: ''
+url_pdf: 'https://github.com/treywood10/Housing_Prices_Kaggle/blob/main/Housing_Kaggle.pdf'
 url_slides: ''
 url_video: ''
 
