@@ -195,7 +195,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Working Papers
       filters:
         folders:
           - working_papers
