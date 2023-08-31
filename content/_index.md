@@ -192,33 +192,33 @@ sections:
 #    design:
 #      columns: '1'
     
-#  - block: collection
-#    id: featured
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - working_papers
-#        featured_only: true
-#    design:
-#      columns: '2'
-#      view: card
-    
-  - block: portfolio
+  - block: collection
     id: papers
     content:
-      title: Working Papers
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Featured Publications
       filters:
         folders:
           - working_papers
-        exclude_featured: false
+        featured_only: false
     design:
       columns: '2'
-      view: citation
+      view: card
+    
+ # - block: portfolio
+ #   id: papers
+ #   content:
+ #     title: Working Papers
+ #     text: |-
+ #       {{% callout note %}}
+ #       Quickly discover relevant content by [filtering publications](./publication/).
+ #       {{% /callout %}}
+ #     filters:
+ #       folders:
+ #         - working_papers
+ #       exclude_featured: true
+ #   design:
+ #     columns: '2'
+ #     view: citation
     
 #  - block: collection
 #    id: talks
