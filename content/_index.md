@@ -215,7 +215,7 @@ sections:
       filters:
         folders:
           - working_papers
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
