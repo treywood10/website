@@ -25,8 +25,8 @@ abstract: Why do troop contributing countries differ in their contribution level
 # Summary. An optional shortened abstract.
 summary: Missions with high-risk mandates and dangerous conflict environments experience smaller troop contributions.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 links:
