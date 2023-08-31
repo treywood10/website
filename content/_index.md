@@ -204,16 +204,16 @@ sections:
       columns: '2'
       view: card
     
-  - block: collection
+  - block: papers
     content:
-      title: Recent Publications
+      title: Working Papers
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - working_papers
         exclude_featured: true
     design:
       columns: '2'
