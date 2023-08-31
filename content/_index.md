@@ -204,7 +204,8 @@ sections:
       columns: '2'
       view: card
     
-  - block: papers
+  - block: portfolio
+    id: papers
     content:
       title: Working Papers
       text: |-
