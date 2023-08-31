@@ -1,5 +1,5 @@
 ---
-title: 'UN-Interested Suppliers: Effects of Peacekeeping Mandates on Contributions'
+title: "UN-Interested Suppliers: Effects of Peacekeeping Mandates on Contributions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
