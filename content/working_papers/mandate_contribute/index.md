@@ -32,7 +32,12 @@ featured: false
 links:
 - name: Replication Materials
   url: 'https://github.com/treywood10/Mandate_Contribute'
-url_pdf: https://github.com/treywood10/Mandate_Contribute/blob/main/Mandate_Paper.pdf
+- name: Main Text
+  url: 'https://github.com/treywood10/Mandate_Contribute/blob/main/Mandate_Paper.pdf'
+- name: Appendix
+  url: 'https://github.com/treywood10/Mandate_Contribute/blob/main/Appendix.pdf'
+ 
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
