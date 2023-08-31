@@ -2,7 +2,7 @@
 title: "Mandate Risk and the Movement of Peacekeepers"
 authors:
 - trey-wood
-date: "2023-03-022T00:00:00Z"
+date: "2023-03-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Figure from project'
   focal_point: ""
   preview_only: false
 
@@ -67,8 +67,4 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+This working paper is the second chapter of my dissertation. In this project, I explain how mandate risk and the conflict environment incentivize mission force commanders to send smaller troop deployments within the host state. While this chapter is a little more developed than my last chapter, I did not send this out for publication. I had to learn R's geospatial command suite to manipulate the geo-coded data, making this a challenging yet fun project. 
