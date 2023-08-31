@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
  links:
  - name: Replication Materials
-   url: http://example.org
+   url: 'https://github.com/treywood10/Mandate_Contribute'
 
 url_pdf: 'https://github.com/treywood10/Mandate_Contribute/blob/main/Mandate_Paper.pdf'
 url_code: ''
