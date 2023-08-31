@@ -192,17 +192,17 @@ sections:
 #    design:
 #      columns: '1'
     
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - working_papers
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - working_papers
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
     
   - block: portfolio
     id: papers
