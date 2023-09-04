@@ -107,22 +107,31 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
     
+         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5911e494eb9909e1a17707f9ac41002cd0046b6a?raw=1
+          date_end: ''
+          date_start: '2023-09-04'
+          description: 'Statement of Accomplishment for completing the Data Scientist Professional with Python career track'
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Data Scientist Professional with Python'
+          url: ''
+    
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/890e82b3bffb40d4ea3fe9ed4eadfd42262de3ff?raw=1
           date_end: ''
           date_start: '2023-01-21'
-          description: 'Statement of Accomplishment for completing Data Scientist in R track'
+          description: 'Statement of Accomplishment for completing Data Scientist with R career track'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Data Scientist in R'
+          title: 'Data Scientist with R'
           url: ''
 
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/1bffc4253b9393bca0ce92aab348965dcc56f152?raw=1
           date_end: ''
           date_start: '2023-01-17'
-          description: 'Statement of Accomplishment for completing Data Analyst in SQL track'
+          description: 'Statement of Accomplishment for completing Data Analyst with SQL career track'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Data Analyst in SQL'
+          title: 'Data Analyst with SQL'
           url: ''
     design:
       columns: '2'
