@@ -17,7 +17,7 @@ links:
  #   icon_pack: fas
  #   name: Notebook
   #  url: https://github.com/treywood10/Housing_Prices_Kaggle/blob/6554990e34e76eee17b0cb534c3caba4d45d95f0/Housing_Kaggle.pdf
-url_code: 'https://github.com/treywood10/BTB_Project/blob/main/BTB.py'
+url_code: 'https://github.com/treywood10/BTB_Project/blob/main/BTB_make_data.py'
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -32,6 +32,6 @@ slides: ""
 
 As a non-native local of Kentucky, I've become rapidly interested in bourbon. One of my favorite distilleries is Buffalo Trace Distillery in Frankfort, KY. Every day, the gift shop puts out its flagship bourbon for everyone. In addition, the gift shop sells one of its rarer selections, such as Eagle Rare or Blanton's. In this project, I use web scrapping and machine learning to predict the likelihood of each bourbon for the next day. 
 
-I'm currently in beginning stages of the project, but I hope to deploy the model soon. 
+I'm currently in the beginning stages of the project, but I hope to deploy the model soon. I recently finished the code to make the dataset by pulling from Buffalo Trace Daily's historical data and daily posts by web scraping. 
 
-It's exciting to use my machine-learning skills to investigate something I enjoy. Plus, my friends will hopefully benefit from my fun project when the can successfully purchase their favorite bourbon. 
+It's exciting to use my machine-learning skills to investigate something I enjoy. Plus, my friends will hopefully benefit from my fun project when they can successfully purchase their favorite bourbon. 
