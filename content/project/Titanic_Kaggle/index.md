@@ -30,4 +30,4 @@ url_video: ''
 slides: ""
 ---
 
-This project was one of the first Kaggle competitions I competed in after learning foundational knowledge in Python. The competition is a regression problem and asks competitors to predict the price of a home given a set of characteristics. In this project, I cleaned and transformed the data, utilized numerous machine-learning strategies, and predicted housing prices given a test set. Feel free to reach out with any comments or suggestions. 
+This project was one of the first Kaggle competitions I competed in after learning foundational knowledge in Python. The competition is a regression problem and asks competitors to predict the price of a home given a set of characteristics. In this project, I cleaned and transformed the data, utilized numerous machine-learning strategies, and predicted housing prices given a test set. I am currently updating this code locally, so this is not my current attempt. I hope to update the code and notebook soon!
