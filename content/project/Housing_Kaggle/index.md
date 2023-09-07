@@ -16,7 +16,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Notebook
-    url: {% pdf "https://github.com/treywood10/Housing_Prices_Kaggle/blob/6554990e34e76eee17b0cb534c3caba4d45d95f0/Housing_Kaggle.pdf" %}
+    url: https://github.com/treywood10/Housing_Prices_Kaggle/blob/6554990e34e76eee17b0cb534c3caba4d45d95f0/Housing_Kaggle.pdf
 url_code: 'https://github.com/treywood10/Housing_Prices_Kaggle/blob/main/Housing.py'
 url_pdf: ''
 url_slides: ''
