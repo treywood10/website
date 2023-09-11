@@ -14,7 +14,7 @@ image:
 
 links:
   - icon: python
-    icon_pack: fa
+    icon_pack: fab
     name: Make Dataset
     url: https://github.com/treywood10/BTB_Project/blob/main/BTB_make_data.py
   - icon: python
