@@ -2,7 +2,7 @@
 title: What's in the Gift Shop?
 summary: Using machine learning to predict which bourbon is at Buffalo Trace's Gift Shop.
 tags:
-  - Kaggle
+  - Fun
 date: '2023-08-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -13,12 +13,12 @@ image:
   focal_point: Smart
 
 links:
-  - icon: python
+  - icon: fa-python
     icon_pack: fab
     name: Make Dataset
     url: https://github.com/treywood10/BTB_Project/blob/main/BTB_make_data.py
-  - icon: python
-    icon_pack: fa
+  - icon: fa-python
+    icon_pack: fab
     name: Develop Model
     url: https://github.com/treywood10/BTB_Project/blob/main/BTB_analysis.py
 # url_code: 'https://github.com/treywood10/BTB_Project/blob/main/BTB_make_data.py'
