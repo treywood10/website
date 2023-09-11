@@ -13,11 +13,15 @@ image:
   focal_point: Smart
 
 links:
-#  - icon: file-pdf
- #   icon_pack: fas
- #   name: Notebook
-  #  url: https://github.com/treywood10/Housing_Prices_Kaggle/blob/6554990e34e76eee17b0cb534c3caba4d45d95f0/Housing_Kaggle.pdf
-url_code: 'https://github.com/treywood10/BTB_Project/blob/main/BTB_make_data.py'
+  - icon: python
+    icon_pack: fa
+    name: Make Dataset
+    url: https://github.com/treywood10/BTB_Project/blob/main/BTB_make_data.py
+  - icon: python
+    icon_pack: fa
+    name: Develop Model
+    url: https://github.com/treywood10/BTB_Project/blob/main/BTB_analysis.py
+# url_code: 'https://github.com/treywood10/BTB_Project/blob/main/BTB_make_data.py'
 url_pdf: ''
 url_slides: ''
 url_video: ''
