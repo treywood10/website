@@ -132,6 +132,15 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Data Analyst with SQL'
           url: ''
+    
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/180bca800ea843793bb00a3d3b2163b678acdb8f?raw=1
+          date_end: ''
+          date_start: '2023-01-11'
+          description: 'Statement of Accomplishment for completing Data Analyst with Power BI career track'
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Data Analyst with Power BI'
+          url: ''
     design:
       columns: '2'
     
