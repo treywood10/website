@@ -51,8 +51,8 @@ sections:
           date_end: '2023-05-06'
           description: |2-
 
-              * Produced over fifteen original quantitative research projects during intensive coursework
-              * Built and analyzed datasets with multiple modeling strategies in STATA and R
+              * Developed more than fifteen innovative quantitative research projects in rigorous coursework
+              * Constructed and analyzed datasets using diverse modeling techniques in STATA and R
     
         - title: Primary Instructor
           company: University of Kentucky
@@ -63,8 +63,8 @@ sections:
           date_end: '2023-05-06'
           description: |2-
 
-              * Distilled complex political theories into concise lessons for 50-60 undergraduate students
-              * Trained 10 graduate students in advanced quantitative methods and statistical software
+              * Condensed intricate political theories into succinct lessons for classes of 50-60 undergraduates
+              * Taught graduate statistics to 10 students, covering advanced methods and statistical software
 
         - title: STATA Orientation Leader
           company: University of Kentucky
@@ -75,8 +75,8 @@ sections:
           date_end: '2022-08-01'
           description: |2-
 
-              * Launched the first statistics boot-camp for the University’s Political Science Department
-              * Taught a cohort of first year graduate students on intermediate STATA functionality
+              * Pioneered the inaugural Statistics Boot Camp for the University’s Political Science Department
+              * Instructed a cohort of first-year graduate students in advanced STATA functionality
 
         - title: Data Hub/Community Impact Intern
           company: United Way of Greater Chattanooga
@@ -87,8 +87,8 @@ sections:
           date_end: '2018-05-01'
           description: |2-
 
-              * Created GIS maps of Chattanooga neighborhoods and crime for community advocacy groups
-              * Informed city elected officials on Hamilton Country housing trends with GIS images
+              * Generated GIS maps for Chattanooga neighborhood and crime data for community advocacy
+              * Offered housing trend insights to Hamilton Count officials through impactful GIS visualizations
     design:
       columns: '2'
     
