@@ -109,7 +109,7 @@ sections:
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5911e494eb9909e1a17707f9ac41002cd0046b6a?raw=1
           date_end: ''
           date_start: '2023-09-04'
-          description: 'Statement of Accomplishment for completing Data Scientist Professional with Python career track'
+          description: 'Successfully completed the Data Scientist Professional with Python career track on DataCamp.'
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Data Scientist Professional with Python'
@@ -118,7 +118,7 @@ sections:
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/890e82b3bffb40d4ea3fe9ed4eadfd42262de3ff?raw=1
           date_end: ''
           date_start: '2023-01-21'
-          description: 'Statement of Accomplishment for completing Data Scientist with R career track'
+          description: 'Successfully completed the Data Scientist with R career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Data Scientist with R'
@@ -127,7 +127,7 @@ sections:
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/1bffc4253b9393bca0ce92aab348965dcc56f152?raw=1
           date_end: ''
           date_start: '2023-01-17'
-          description: 'Statement of Accomplishment for completing Data Analyst with SQL career track'
+          description: 'Successfully completed the Data Analyst with SQL career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Data Analyst with SQL'
@@ -136,7 +136,7 @@ sections:
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/180bca800ea843793bb00a3d3b2163b678acdb8f?raw=1
           date_end: ''
           date_start: '2023-01-11'
-          description: 'Statement of Accomplishment for completing Data Analyst with Power BI career track'
+          description: 'Successfully completed the Data Analyst with Power BI career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Data Analyst with Power BI'
