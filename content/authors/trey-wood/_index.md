@@ -22,7 +22,7 @@ organizations:
     url: https://polisci.as.uky.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Former academic and United Nations peacekeeping scholar turned data scientist. 
+bio: Evolved from an academic background and United Nations peacekeeping research into the field of data science. 
 
 # Interests to show in About widget
 interests:
@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Trey Wood is a Doctor of Political Science specializing in International Relations and Quantitative Methodology. He possesses over four years of data science and research experience and is passionate about continuously learning new quantitative skills for inferential statistics and machine learning. 
+Trey Wood, a Doctor of Political Science specializing in International Relations and Quantitative Methodology, brings more than four years of expertise in data science and research. He is motivated by the continuous learning and application of advanced quantitative skills, particularly in inferential statistics and machine learning. Trey approaches data with enthusiasm, eagerly exploring insights and crafting data-driven solutions to complex problems.
 {style="text-align: justify;"}
