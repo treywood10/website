@@ -143,7 +143,7 @@ sections:
 
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/a3b7c6327c37da013a9cb3bd334fa0ab372e7352?raw=1
           date_end: ''
-          date_start: '2023-26-09'
+          date_start: '2023-09-26'
           description: 'Successfully completed the Data Scientist Professional with R career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
