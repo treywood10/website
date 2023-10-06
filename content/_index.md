@@ -149,6 +149,15 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Data Scientist Professional with R'
           url: ''
+
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/152e3eb5d2a8337103647bb1748851da7218ad6f?raw=1
+          date_end: ''
+          date_start: '2023-10-06'
+          description: 'Successfully completed the Machine Learning Scientist with R career track on DataCamp'
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Machine Learning Scientist with R'
+          url: ''
     design:
       columns: '2'
     
