@@ -42,6 +42,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Data Scientist
+          company: Science Applications International Corporation (SAIC)
+          company_url: 'https://www.saic.com'
+          company_logo: SAIC
+          location: Lexington, KY
+          date_start: '2023-10-01'
+          date_end: ''
+          description: |2-
+
+              * Evaluated multiple facial recognition algorithms for the Department of Homeland Security
+              * Leveraged cloud computing and analytical strategies to present actionable insights
+        
         - title: Graduate Researcher
           company: University of Kentucky
           company_url: 'https://polisci.as.uky.edu'
