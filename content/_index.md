@@ -46,13 +46,13 @@ sections:
           company: Science Applications International Corporation (SAIC)
           company_url: 'https://www.saic.com'
           company_logo: SAIC
-          location: Lexington, KY
+          location: Reston, VA (Remote)
           date_start: '2023-10-01'
           date_end: ''
           description: |2-
 
-              * Spearheaded multiple facial recognition algorithm evaluations on behalf of the Department of Homeland Security
-              * Utilized cutting-edge cloud computing and analytical methodologies to deliver compelling insights and actionable recommendations
+              * Facilitated facial recognition algorithm evaluations for the Department of Homeland Security
+              * Deployed cloud computing and statistical methods to deliver actionable security recommendations
         
         - title: Graduate Researcher
           company: University of Kentucky
