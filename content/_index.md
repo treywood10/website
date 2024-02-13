@@ -51,8 +51,8 @@ sections:
           date_end: ''
           description: |2-
 
-              * Evaluated multiple facial recognition algorithms for the Department of Homeland Security
-              * Leveraged cloud computing and analytical strategies to present actionable insights
+              * Spearheaded multiple facial recognition algorithm evaluations on behalf of the Department of Homeland Security
+              * Utilized cutting-edge cloud computing and analytical methodologies to deliver compelling insights and actionable recommendations
         
         - title: Graduate Researcher
           company: University of Kentucky
