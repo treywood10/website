@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Trey Wood, a Doctor of Political Science specializing in International Relations and Quantitative Methodology, brings more than four years of expertise in data science and research. He is motivated by the continuous learning and application of advanced quantitative skills, particularly in inferential statistics and machine learning. Trey approaches data with enthusiasm, eagerly exploring insights and crafting data-driven solutions to complex problems.
+My name is Trey Wood and I'm a Doctor of Political Science with a focus on International Relations and Quantitative Methodology. I have over five years of experience in data science and research. Currently, I work as a data scientist at Science Applications International Corporation (SAIC), where my team evaluates industry and government facial recognition algorithms for the Department of Homeland Security. I’m driven by my passion for continuous learning and love for exploring data to find data-driven solutions to complex problems.
 {style="text-align: justify;"}
