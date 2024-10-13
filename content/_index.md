@@ -171,7 +171,7 @@ sections:
           title: 'Machine Learning Scientist with R'
           url: ''
     
-        - certificate_url: 
+        - certificate_url: https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals
           date_end: ''
           date_start: '2024-11-01'
           description: 'Curently working to complete the Tableau Fundamentals course'
