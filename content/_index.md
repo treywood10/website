@@ -170,6 +170,15 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Machine Learning Scientist with R'
           url: ''
+    
+        - certificate_url: 
+          date_end: ''
+          date_start: 'In Progress'
+          description: 'Successfully completed the Machine Learning Scientist with R career track on DataCamp'
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Tableau Fundamentals'
+          url: ''
     design:
       columns: '2'
     
