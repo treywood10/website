@@ -170,15 +170,6 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Machine Learning Scientist with R'
           url: ''
-    
-        - certificate_url:
-          date_end: ''
-          date_start: 'In Progress'
-          description: 'Tableau Fundamentals course is currently in progress'
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Tableau Fundamentals'
-          url: ''
     design:
       columns: '2'
     
