@@ -171,7 +171,7 @@ sections:
           title: 'Machine Learning Scientist with R'
           url: ''
     
-        - certificate_url: ''
+        - certificate_url:
           date_end: ''
           date_start: 'In Progress'
           description: 'Tableau Fundamentals course is currently in progress'
