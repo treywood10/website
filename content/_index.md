@@ -173,7 +173,7 @@ sections:
     
         - certificate_url: 
           date_end: ''
-          date_start: 'In Progress'
+          date_start: '2024'
           description: 'Successfully completed the Machine Learning Scientist with R career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
