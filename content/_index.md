@@ -173,8 +173,8 @@ sections:
     
         - certificate_url: 
           date_end: ''
-          date_start: '2024'
-          description: 'Successfully completed the Machine Learning Scientist with R career track on DataCamp'
+          date_start: '2024-11-01'
+          description: 'Curently working to complete the Tableau Fundamentals course'
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Tableau Fundamentals'
