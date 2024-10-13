@@ -52,7 +52,7 @@ sections:
           description: |2-
 
               * Facilitated facial recognition algorithm evaluations for the Department of Homeland Security
-              * Deployed cloud computing and statistical methods to deliver actionable security recommendations
+              * Leveraged cloud computing and statistical methods to deliver actionable security recommendations
         
         - title: Graduate Researcher
           company: University of Kentucky
