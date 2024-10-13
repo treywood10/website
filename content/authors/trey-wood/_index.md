@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Trey Wood
+title: Trey Wood, Ph.D.
 
 # Full name (for SEO)
 first_name: Trey
