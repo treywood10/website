@@ -121,54 +121,54 @@ sections:
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5911e494eb9909e1a17707f9ac41002cd0046b6a?raw=1
           date_end: ''
           date_start: '2023-09-04'
-          description: 'Successfully completed the Data Scientist Professional with Python career track on DataCamp.'
+          description: 'Successfully completed the Data Scientist in Python career track on DataCamp.'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Data Scientist Professional with Python'
+          title: 'Data Scientist in Python'
           url: ''
     
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/890e82b3bffb40d4ea3fe9ed4eadfd42262de3ff?raw=1
           date_end: ''
           date_start: '2023-01-21'
-          description: 'Successfully completed the Data Scientist with R career track on DataCamp'
+          description: 'Successfully completed the Associate Data Scientist in R career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Data Scientist with R'
+          title: 'Associate Data Scientist in R'
           url: ''
 
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/1bffc4253b9393bca0ce92aab348965dcc56f152?raw=1
           date_end: ''
           date_start: '2023-01-17'
-          description: 'Successfully completed the Data Analyst with SQL career track on DataCamp'
+          description: 'Successfully completed the Associate Data Analyst in SQL career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Data Analyst with SQL'
+          title: 'Associate Data Analyst in SQL'
           url: ''
     
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/180bca800ea843793bb00a3d3b2163b678acdb8f?raw=1
           date_end: ''
           date_start: '2023-01-11'
-          description: 'Successfully completed the Data Analyst with Power BI career track on DataCamp'
+          description: 'Successfully completed the Data Analyst in Power BI career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Data Analyst with Power BI'
+          title: 'Data Analyst in Power BI'
 
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/a3b7c6327c37da013a9cb3bd334fa0ab372e7352?raw=1
           date_end: ''
           date_start: '2023-09-26'
-          description: 'Successfully completed the Data Scientist Professional with R career track on DataCamp'
+          description: 'Successfully completed the Data Scientist in R career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Data Scientist Professional with R'
+          title: 'Data Scientist in R'
           url: ''
 
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/152e3eb5d2a8337103647bb1748851da7218ad6f?raw=1
           date_end: ''
           date_start: '2023-10-06'
-          description: 'Successfully completed the Machine Learning Scientist with R career track on DataCamp'
+          description: 'Successfully completed the Machine Learning Scientist in R career track on DataCamp'
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Machine Learning Scientist with R'
+          title: 'Machine Learning Scientist in R'
           url: ''
     
         - certificate_url: https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals
