@@ -51,8 +51,10 @@ sections:
           date_end: ''
           description: |2-
 
-              * Facilitated facial recognition algorithm evaluations for the Department of Homeland Security
-              * Leveraged cloud computing and statistical methods to deliver actionable security recommendations
+              * Led evaluations of facial recognition algorithms, ensuring government standard compliance
+              * Pioneered research on bias in biometric systems, promoting fairness in facial recognition
+              * Delivered reports translating AI application outcomes into actionable recommendations
+              * Leveraged cloud computing and statistical analysis to optimize data processing and analysis
         
         - title: Graduate Researcher
           company: University of Kentucky
