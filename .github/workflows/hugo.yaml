@@ -1,11 +1,8 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
   schedule:
     - cron: 0 0 * * *
-
-  # Allows manual trigger from GitHub Actions
   workflow_dispatch:
 
 permissions:
@@ -52,16 +49,21 @@ jobs:
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/" | tee hugo-build.log
       - name: Debug Hugo build output
         run: cat hugo-build.log
-      - name: Check build output directory
+      - name: Check if Hugo output directory exists
         run: |
           if [ ! -d "./public" ] || [ -z "$(ls -A ./public)" ]; then
-            echo "Error: ./public directory is empty!"
+            echo "Error: Hugo did not generate the ./public directory or it's empty!"
             exit 1
           fi
+      - name: Debug build output
+        run: ls -lah ./public
       - name: Upload artifact for deployment
         uses: actions/upload-pages-artifact@v3
         with:
+          name: hugo-site
           path: ./public
+      - name: Debug uploaded artifact
+        run: ls -lah ./public
 
   deploy:
     environment:
@@ -71,8 +73,11 @@ jobs:
     needs: build
     steps:
       - name: Debug available artifacts
-        run: ls -lah ${{ runner.temp }}
-
+        run: |
+          echo "Checking artifacts..."
+          ls -lah ${{ runner.temp }} || echo "No artifacts found!"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact_name: hugo-site
